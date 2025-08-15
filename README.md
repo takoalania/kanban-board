@@ -129,7 +129,7 @@ Good luck! Show us your skills, and feel free to reach out with any questions du
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/task-manager-challenge.git
+   git clone https://github.com/takoalania/deepset-challenge.git
    cd task-manager-challenge
    ```
 
